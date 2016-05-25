@@ -132,7 +132,7 @@ class CAboutDlg : public CDialogEx
 {
 public:
 	CAboutDlg();
-
+	//asdfasdfasdf
 // 대화 상자 데이터입니다.
 #ifdef AFX_DESIGN_TIME
 	enum { IDD = IDD_ABOUTBOX };
